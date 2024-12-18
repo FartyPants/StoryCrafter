@@ -82,6 +82,7 @@ memory
 You can use multiple keywords with , (for example character first and last name separated by , - that means either will trigger the memory)
 
 rimmer, arnold:
+
 Arnold Judas Rimmer - A hologram of a deceased crew member, painfully neurotic, insufferably pompous, and obsessed with climbing the ranks of the Space Corps despite being utterly incompetent. Known for his pedantic obsession with Space Corps directives and his strained relationship with Lister.
 
 **Tuning Your Story's Memory: The Settings Tab**
