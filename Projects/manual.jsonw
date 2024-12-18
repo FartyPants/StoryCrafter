@@ -1,0 +1,15 @@
+{
+    "display_name": "StoryCrafter",
+    "is_tab": true,
+    "selectA": [
+        0,
+        0
+    ],
+    "projectname": "manual",
+    "auto_clear": true,
+    "include_history": true,
+    "include_history_nr": 5,
+    "lorebook": "Future Cues:\nFuture Cues are directives that apply to the beats that follow the current one, ensuring consistency and coherence as the story unfolds. They can be used to introduce significant changes, reminders, or any other detail that will be relevant to the story moving forward.",
+    "system": "You are experienced fiction writer. Develop the plot slowly. Describe all actions in full, elaborate and vivid detail.",
+    "world": "StoryCrafter is for writing and generating stories beat by beat (short passages of scenes, paragraphs). At each generation all the previously \n\nVersions\nEach beat can also have multiple versions and you can then choose which version to include in the final text.\n\nFuture Cues\nEach beat can also have Future Cues - they are for the text that will be generated after the current one, down the page. "
+}
