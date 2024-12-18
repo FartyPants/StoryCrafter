@@ -5,6 +5,8 @@ New Writing Extension for Text Generation WebUI
 
 Based on my previous BlockWriter extension, but extended much further!
 
+Because I'm super lazy I used the StoryCrafter to write manual for itself. So don't roll your eyes, I used llama 3.2 and this is how it sounds. Totally human, right?
+
 Story beats are the building blocks of a narrative, representing individual moments or scenes that, when linked together, form the larger story. 
 Beats can be thought of as paragraphs, scenes, or even smaller moments within a scene, such as a character's inner monologue or a descriptive passage setting the atmosphere. By focusing on one beat at a time, writers can craft a rich, nuanced story that flows logically from one moment to the next, with each beat informing and influencing those that follow. 
 
