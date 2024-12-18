@@ -16,6 +16,9 @@ Beats can be thought of as paragraphs, scenes, or even smaller moments within a 
 
 StoryCrafter is a tool designed to help you write and generate stories beat by beat. With its intuitive interface and innovative features, you'll be able to craft compelling narratives that capture your readers' imaginations. Here's a step-by-step guide to get you started:
 
+!!! it has to be installed in extensions/StoryCrafter
+(You need to have StoryCrafter the name as there is a hardcoded path looking for files in /extensions/StoryCrafter)
+
 1. **Add a New Beat**: Begin by creating a new beat, which is a short passage or paragraph that forms a key part of your story. This can be a scene, a character introduction, a plot twist, or any other important event that drives your narrative forward.
 
 Note: Beats are numbered automatically. You can rearrange beats and delete them, but their number will not change. The number is more like an ID of the beat than anything else so the software can locate it and not the order. 
