@@ -55,7 +55,7 @@ Versions
 Each beat can also have multiple versions and you can then choose which version to include in the final text.
 
 Cross variation to prompt. In the Instruct mode you can specify [V1], [V2] or [V3] in the prompt and it will insert the text from that version. This way you can instruct to rewrite the text without copying the text to prompt. 
-For example: Rewrite the following text using first person POV [V1] or Summarrize the following text: [V2]
+For example: Rewrite the following text using first person POV [V1] or Summarize the following text: [V2]
 
 Future Cues
 
