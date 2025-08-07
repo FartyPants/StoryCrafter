@@ -5,6 +5,13 @@ New Writing Extension for Text Generation WebUI
 
 Based on my previous BlockWriter extension, but extended much further!
 
+If you are interested in training your own LLM, check out my newest book "The Cranky Man's Guide to LoRA & QLoRA" 
+
+<img height="200" alt="The Cranky Man's Guide to LoRA & QLoRA" src="https://github.com/user-attachments/assets/afdbaae1-54a6-421f-a52c-ce6ea4477514" />
+
+Find it on [Amazon](https://www.amazon.com/dp/B0FLBTR2FS), [Apple Books](https://books.apple.com/us/book/the-cranky-mans-guide-to-lora-and-qlora/id6749593842), [Kobo](https://www.kobo.com/ca/en/ebook/the-cranky-man-s-guide-to-lora-and-qlora), [Barnes & Noble](https://www.barnesandnoble.com/w/the-cranky-mans-guide-to-lora-and-qlora-f-p-ham/1148001179)
+
+
 Because I'm super lazy and I didn't have my coffee yet, I used the StoryCrafter to write manual for itself. So don't roll your eyes, I used llama 3.2 and this is how it sounds. Totally human, right?
 
 Story beats are the building blocks of a narrative, representing individual moments or scenes that, when linked together, form the larger story. 
